@@ -1,8 +1,0 @@
-I:\TFS代码管理\DataDic\MyTools.Update\bin\Debug\MyTools.Update.dll
-I:\TFS代码管理\DataDic\MyTools.Update\bin\Debug\MyTools.Update.pdb
-I:\TFS代码管理\DataDic\MyTools.Update\obj\Debug\ResolveAssemblyReference.cache
-I:\TFS代码管理\DataDic\MyTools.Update\obj\Debug\MyTools.Update.DownloadConfirm.resources
-I:\TFS代码管理\DataDic\MyTools.Update\obj\Debug\MyTools.Update.DownloadProgress.resources
-I:\TFS代码管理\DataDic\MyTools.Update\obj\Debug\MyTools.Update.csproj.GenerateResource.Cache
-I:\TFS代码管理\DataDic\MyTools.Update\obj\Debug\MyTools.Update.dll
-I:\TFS代码管理\DataDic\MyTools.Update\obj\Debug\MyTools.Update.pdb
