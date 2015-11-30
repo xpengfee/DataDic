@@ -1,0 +1,11 @@
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\bin\Debug\MyTools.DataDic.Utils.dll
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\bin\Debug\MyTools.DataDic.Utils.pdb
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\bin\Debug\NVelocity.dll
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\obj\Debug\ResolveAssemblyReference.cache
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\obj\Debug\MyTools.DataDic.Utils.dll
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\obj\Debug\MyTools.DataDic.Utils.pdb
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\bin\Debug\NPOI.dll
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\bin\Debug\NPOI.OOXML.dll
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\bin\Debug\NPOI.OpenXml4Net.dll
+I:\TFS代码管理\DataDic\MyTools.DataDic.Utils\bin\Debug\NPOI.OpenXmlFormats.dll

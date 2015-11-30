@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTools.DataDic.Utils", "MyTools.DataDic.Utils\MyTools.DataDic.Utils.csproj", "{5AC41B16-23AB-441C-B17F-CA19B78FFAFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据字典生成文档", "数据字典生成文档\数据字典生成文档.csproj", "{18813107-0F03-4B93-BCBA-2016310828F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC41B16-23AB-441C-B17F-CA19B78FFAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC41B16-23AB-441C-B17F-CA19B78FFAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC41B16-23AB-441C-B17F-CA19B78FFAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC41B16-23AB-441C-B17F-CA19B78FFAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18813107-0F03-4B93-BCBA-2016310828F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18813107-0F03-4B93-BCBA-2016310828F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18813107-0F03-4B93-BCBA-2016310828F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18813107-0F03-4B93-BCBA-2016310828F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(PowerDesigner) = preSolution
+		HasSWS = 1
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
